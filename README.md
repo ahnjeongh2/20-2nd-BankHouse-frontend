@@ -19,14 +19,14 @@
 
 # :rocket:팀원
 
-### Frontend 4명
+### Front-end 4명
 
 - [김유림](https://github.com/yurim45)
 - [안정현](https://github.com/ahnjeongh2)
 - [안준현](https://github.com/junchi211)
 - [이지연](https://github.com/Yonyas)
 
-### Backend 2명
+### Back-end 2명
 
 - [김경래](https://github.com/kyeongraekim)
 - [최대환](https://github.com/Dae-Hwan)
@@ -50,17 +50,17 @@
 
 🎈메인 페이지(사진 카테고리 페이지)
 - Nav 컴포넌트
-  *  location 객체를 활용한 커뮤니티 내 카테고리 메뉴 경로 이동에 따른 폰트 색 변경
-  *  페이지 스크롤 시, 메인 Nav 고정 기능(position: sticky 적용)
-  *  localStorge 상의 access token 저장 여부에 따른 로그인/로그아웃 상태 변화
+  * location 객체를 활용한 커뮤니티 내 카테고리 메뉴 경로 이동에 따른 폰트 색 변경
+  * 페이지 스크롤 시, 메인 Nav 고정 기능(position: sticky 적용)
+  * localStorge 상의 access token 저장 여부에 따른 로그인/로그아웃 상태 변화
 - 페이지 헤더 슬라이더
   * 라이브러리(slick slider)를 활용한 슬라이더 구현
 - 컨텐츠 필터링 기능
 - 컨텐츠 card 기능
   * 동적라우팅을 활용한 페이지 이동 구현(카테고리 페이지 -> 상세 페이지)
-  * 목데이터 활용 및 적용, 백엔드와 API 연결
+  * mock data 활용 및 적용, 백엔드와 API 연결
 - 페이지네이션 기능
-  * 목데이터 적용, 백엔드와 API 연결
+  * mock data 적용, 백엔드와 API 연결
 - throttle을 적용한 GoToTop button 기능 구현
 - Footer 컴포넌트
 
@@ -78,8 +78,8 @@
 - 업로드된 컨텐츠 삭제 기능
 
 
-## 데모 영상
-- [유튜브 영상 링크](https://www.youtube.com/watch?v=yCrwiy9oFAQ)
+## 프로젝트 전체 시연 영상
+- 🎬 [유튜브 영상 링크](https://www.youtube.com/watch?v=yCrwiy9oFAQ)
 
 
 ## 💥 Reference
