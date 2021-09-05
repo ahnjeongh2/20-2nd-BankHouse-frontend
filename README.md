@@ -34,7 +34,7 @@
 
 ## 적용 기술
 
-- **Front-end :** React, React Router, React Hooks, Styled Components, JavaScript
+- **Front-end :** `React`, `React Router`, `React Hooks`, `Styled Components`, `JavaScript`
 - **Back-end :** Python, Aquery, Django web framework, Bcrypt, My SQL, PyJWT, Django Unit Test, Docker, AWS(RDS, EC2, S3), unicorn, nohup
 - **Common :** Slack, Trello, GitHub, Git, RESTful API
 
