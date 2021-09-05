@@ -13,7 +13,7 @@
 
 ## 프로젝트 계획
 
-- **1st Sprint :** 각자 맡은 페이지 기능 구현
+- **1st Sprint :** 각자 맡은 페이지 기능 구현 및 컴포넌트화
 - **2nd Sprint :** code Refactoring 및 conflict 해결
 
 
